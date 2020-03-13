@@ -20,7 +20,7 @@ public class BottomFadingRecyclerView extends RecyclerView {
     }
 
     public BottomFadingRecyclerView(Context context, @Nullable AttributeSet attrs) {
-        super(context, attrs);
+            super(context, attrs);
     }
 
     public BottomFadingRecyclerView(Context context, @Nullable AttributeSet attrs, int defStyle) {
